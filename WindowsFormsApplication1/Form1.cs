@@ -20,6 +20,7 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             //LibGit2Sharp.Handlers.
+            LibGit2Sharp.Configuration cfg = new LibGit2Sharp.Configuration();
         }
     }
 }
