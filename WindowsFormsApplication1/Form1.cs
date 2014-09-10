@@ -21,6 +21,7 @@ namespace WindowsFormsApplication1
         {
             //LibGit2Sharp.Handlers.
             LibGit2Sharp.Configuration cfg = new LibGit2Sharp.Configuration();
+            cfg.First();
         }
     }
 }
